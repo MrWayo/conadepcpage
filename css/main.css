@@ -194,20 +194,23 @@ body > section {
 }
 
 .top-number p{
-  
+ 
 }
 
 #fondo{
   background-image: url(../images/heads.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
  .adorno{
   display: inline-block;
   padding: 3px 10px;
   margin: 0 0 4px 0;
-  color: #fff;
+  color: #f9f754;
   font-weight: 600;
   background-color: rgb(0,0,0);
-  background-color: rgba(0,0,0,0.39);
+  background-color: rgba(8, 5, 29, 0.51);
+  font-size: 23px;
  }
 
 .social{
